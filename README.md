@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JannisJost
-- 👀 I’m interested in writing my own applications with Java/JavaFX
+ I like writing modern looking applications with Java/JavaFX
 
 
