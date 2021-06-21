@@ -1,5 +1,5 @@
 # Hey there 👋
-I am a computer science student who really likes to code. I mainly use Java to create my own applications. I started to code two years ago. I really want to improve my skills even more and also expand my knowledge on different coding languages and computers in general.
+I am a computer science student who really likes to code. I mainly use Java to create my own applications. I started to code two years ago and really want to improve my skills even more and also expand my knowledge on different coding languages and computers in general.
 
 # My Projects
 
