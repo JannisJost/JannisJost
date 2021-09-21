@@ -3,6 +3,8 @@ I am a computer science student who really likes to code. I mainly use Java to c
 
 # My Projects
 
+[My portfolio website](https://jannisjost.github.io/)
+
 I like writing modern looking applications with Java/JavaFX
  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannisJost&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
