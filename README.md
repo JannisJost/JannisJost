@@ -1,5 +1,5 @@
 # Hey 👋
-I am a Computer Science student living in Switzerland.  I have a keen interest for coding, and I am willing to learn more about it, especially different coding languages and about the science behind computers. It has been 3 years since I started coding. I am always open and interested to learn from my own mistakes and further improve my skills.
+I am a Computer Science student living in Switzerland.  I have a keen interest for coding, and I am willing to learn more about it, especially different coding languages and about the science behind computers. It has been 4 years since I started coding. I am always open and interested to learn from my own mistakes and further improve my skills.
 
 # My Projects
 
